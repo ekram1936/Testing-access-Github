@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <book>
+        <title>Book Title 1</title>
+        <author>Author 1</author>
+        <genre>Fiction</genre>
+        <price>19.99</price>
+    </book>
+    <book>
+        <title>Book Title 2</title>
+        <author>Author 2</author>
+        <genre>Science Fiction</genre>
+        <price>24.95</price>
+    </book>
+    <book>
+        <title>Book Title 3</title>
+        <author>Author 3</author>
+        <genre>Mystery</genre>
+        <price>14.99</price>
+    </book>
+</catalog>
